@@ -1,11 +1,9 @@
 
-
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
 <h3 align="center">I'm a front-end web developer</h3>
 
 
-
-
+![Alt Text](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiekisiak&label=Profile%20views&color=0e75b6&style=flat" alt="amiekisiak" /> </p>
 
 
