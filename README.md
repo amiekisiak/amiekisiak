@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **attending Skills Bootcamp in Front-End Web Development (in association with the University of Birmingham)**
+- 🌱 I’m currently **attending Skills Bootcamp in Front-End Web Development (in association with the University of Birmingham)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amiekisiak](https://github.com/amiekisiak)
 
