@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
-<h3 align="center">I'm a front-end web developer</h3>
+<h3 align="center">I'm a web developer</h3>
 
 
   ![Alt Text](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
